@@ -94,6 +94,8 @@ See [Examples](./Examples.md)
 
 # Timeline
 
+Project work weeks will include project work + pop-up lectures based on common issues and questions on any frontend or backend technology from class.
+
 Week | Content | Start Date
 ---- | ------- | -------
 18 | Review. Final Project Planning. React-Router. Intro to Flux. | Oct 18
