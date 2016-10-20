@@ -103,6 +103,6 @@ Week | Content | Start Date
 22 | Testing. Deploy your projects into a production environment. | Nov 15
 23 | Project work. Computer Science Fundamentals | Nov 22
 24 | Project work. | Nov 29
-24 | Project work | Dec 6
-24 | Career Week | Dec 13
-24 | Project Presentations! | Dec 20 (last day)
+25 | Project work | Dec 6
+26 | Career Week | Dec 13
+27 | Project Presentations! | Dec 20 (last day)
