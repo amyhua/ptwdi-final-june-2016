@@ -100,11 +100,13 @@ Week | Content | Start Date
 ---- | ------- | -------
 18 | Review. Final Project Planning. React-Router. Intro to Flux. | Oct 18
 19 | Flux, cont'd. | Oct 25
-20 | Project work. User Auth. | Nov 1
-21 | Project work. Computer Science Fundamentals | Nov 8
-22 | Testing. Deploy your projects into a production environment. | Nov 15
-23 | Project work. Computer Science Fundamentals | Nov 22
-24 | Project work. | Nov 29
-25 | Project work | Dec 6
-26 | Career Week | Dec 13
-27 | Project Presentations! | Dec 20 (last day)
+20 | Project work. React-Router Blogger Integration | Nov 1
+21 | Project work. | Nov 8
+22 | Project work. User Auth in React/Redux.| Nov 15
+23 | Project work. Testing. | Nov 22
+23 | Project work. Deployment/DNS/Automation | Nov 29
+24 | Project work. Computer Science Fundamentals | Dec 6
+25 | Project work. Computer Science Fundamentals | Dec 13
+26 | Project work. | Dec 20
+... | ... | ...
+XX | Project Presentations! | Jan 19 (last day)
