@@ -2,7 +2,7 @@
 
 **Modification Notes on Grading Criteria**
 
-* *Deployment is optional*: You can demo your project off of localhost _or_ Heroku. Heroku deployment is not a required mark of completion, but is preferred so you can show it on your portfolios and/or the NYCDA Student Projects page later.
+* *Deployment is optional*: You can demo your project off of localhost _or_ a deployment platform like Heroku. Deployment is not a required mark of completion, but is preferred so you can show it on your portfolios and/or the NYCDA Student Projects page later.
 
 *  *Style guide compliance doesn’t need to be 100%, but it should be up there* (https://github.com/amyhua/node-style-guide/blob/master/.eslintrc), modifications on the  .eslintrc file are OK (if for some reason ESLint install does not work for you, just read through the guidelines on the README and follow them as best as you can). If you have _some_ errors here and there from when I put it through eslint, that’s fine. But if there are _so_ many errors that there was clearly no attempt at following a style guide, then I’d ask for you to resubmit.
 
